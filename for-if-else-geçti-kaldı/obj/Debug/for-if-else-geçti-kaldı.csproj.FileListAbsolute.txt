@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\bin\Debug\for-if-else-geçti-kaldı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\bin\Debug\for-if-else-geçti-kaldı.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\bin\Debug\for-if-else-geçti-kaldı.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\obj\Debug\for-if-else-geçti-kaldı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\obj\Debug\for-if-else-geçti-kaldı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\obj\Debug\for_if_else_geçti_kaldı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\obj\Debug\for_if_else_geçti_kaldı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\obj\Debug\for-if-else-geçti-kaldı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\obj\Debug\for-if-else-geçti-kaldı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\obj\Debug\for-if-else-geçti-kaldı.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-if-else-geçti-kaldı\for-if-else-geçti-kaldı\obj\Debug\for-if-else-geçti-kaldı.pdb
